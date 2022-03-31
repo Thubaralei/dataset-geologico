@@ -20,27 +20,43 @@ Levantamento Bibliográfico: As bibliografias que servirão como base para este 
 
 Formulação do Dataset, aprendizado de máquina e modelo de previsão: Serão confeccionados Dataset de dados reais e possíveis informações coringas para enriquecer o número de dados e deixar modelos mais robustos (Figura 2 - 3). O objetivo será fazer tabelamento de dados numerosos o suficiente para rodar um modelo de árvore de decisões capaz de predizer valores com base nos já existes da amostragem, criando amostras sintéticas capazes de validar valores reais. Também será confeccionado uma interface semelhante a um dashbord para trabalho no tipo de modelo. 
 
-Figura 2 Correlação numérica de dados do CAMPALEO, evidenciando um possível potencial para modelo de aprendizado.
+.
 Amostra	Nível	MOA-NF	OP-AL	OP-EQUI	N.OP-N.BIO	SPONG	ESPORO	PÓLEN	PRASINÓFITAS
+
 FL 1	102	29	4	2	60	0	1	0	4
+
 FL 2	97,5	27	10	3	50	0	0	4	6
+
 FL 3	92,5	62	3	1	33	0	0	0	1
+
 FL 4	87	54	7	4	21	1	0	0	13
+
 FL 5	81	70	3	1	18	0	0	0	8
+
 FL 6	76,5	64	1	0	29	0	0	0	6
+
 FL 7	72	71	2	0	24	0	0	0	3
+
 FL 8	65,5	78	4	1	15	0	0	0	2
+
 FL 9	58	74	3	0	20	0	0	0	3
+
 FL 10	50	62	4	0	30	0	0	0	4
+
 FL 11	42	75	2	0	21	1	0	0	1
+
 FL 12	35	89	1	0	8	0	0	0	2
+
 FL 13	29,5	84	0	0	12	0	0	0	4
+
 FL 14	23	89	1	0	9	0	0	0	1
+
 FL 15	16,5	79	0	0	18	0	0	1	2
+
 FL 16	11	72	1	0	16	0	0	1	10
+
 FL 17	6	71	2	0	19	0	0	0	8
 
-Figura 3 Modelo de tabelamento numérico de dados amostrados do CAMPALEO. 
 
 Análises Micropaleontológicas e Geoquímicas: Não serão realizadas novas análises químicas, e micropaleontologicas por vez que serão usados dados pré-existentes. O tratamento de dados cedidos pela literatura será feito através dos softwares Excel, Jupyter, R, GitHUB (Figura 4). Serão elaborados gráficos e diagramas expositivos dos modelos de predição e aprendizado de máquina, como os diagramas desenvolvidos através de bibliotecas estatísticas em Python. 
 
